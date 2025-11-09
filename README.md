@@ -63,3 +63,64 @@ Our app is designed for individuals across a range of accessibility needs:
 💡 Vision
 
 Our goal is to make communication more inclusive, instant, and human — turning every smartphone into a bridge between spoken words and tactile understanding.
+
+🔮 Future Scope
+
+As BrailleSense continues to evolve, we see a powerful opportunity to integrate spatial intelligence and gesture-based interaction — making the experience more natural, adaptive, and context-aware.
+
+1. 🖐️ Path & Gesture Detection
+
+Integrate gesture tracking to detect finger movement patterns across the screen, allowing users to draw or trace Braille characters directly.
+
+Detect finger path direction, speed, and pattern recognition.
+
+Provide immediate haptic feedback to confirm accurate Braille tracing.
+
+Enable freeform Braille input (instead of only tapping dots).
+
+This will help users learn and practice Braille writing interactively, not just read it.
+
+2. 🌍 Spatial Orientation & Object Detection
+
+Use CoreML and ARKit (on iOS) to add path and object detection in real-world environments.
+
+Vibrate when obstacles or text signs are detected in front of the user.
+
+Provide directional haptic feedback (e.g., left-right vibrations to guide navigation).
+
+Combine camera input and speech output for “talking navigation” with Braille cues.
+
+This would transform BrailleSense into a mobility and awareness assistant, not just a language tool.
+
+3. 🔊 Context-Aware Haptic Feedback
+
+Develop adaptive vibration patterns that change based on context —
+
+Short pulses for letters
+
+Longer or directional vibrations for navigation or alerts
+
+Dynamic feedback when users move across detected objects or paths
+
+This bridges the gap between tactile sensing and environmental awareness.
+
+4. 🧭 Indoor Path Guidance
+
+Integrate Bluetooth beacons or AR-based positioning for indoor navigation — helping users feel their way through buildings via subtle vibration cues.
+
+Example: guiding a user from the entrance to a classroom or a Braille station using distinct vibration patterns for “turn left,” “straight ahead,” or “destination reached.”
+
+5. 🤖 AI-Powered Touch Recognition
+
+Use on device ML to classify touch patterns and gestures as Braille inputs or commands.
+The system can learn how each user interacts, improving accuracy and reducing the need for visual feedback.
+
+6. 🌐 Smart Integration
+
+Connect with IoT and smart devices for example:
+
+Vibrate when a notification or message arrives.
+
+Read aloud or convert to Braille any text on nearby smart displays.
+
+Support hands-free voice commands combined with tactile responses.
